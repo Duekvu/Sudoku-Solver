@@ -1,6 +1,6 @@
 # Sudoku-Solver
 
-Visualize the process of solving a sudoku grid using backtracking algorithm vs and optimized version of a backtracking algorithm. 
+Visualize the process of solving a sudoku grid using backtracking algorithm vs optimized version of a backtracking algorithm. 
 
 ## Intructions
 
