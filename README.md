@@ -10,7 +10,7 @@ To run the GUI version, you must have pygame in your computer.
 ### How to use:
 ```python sudoku.py``` for a Non-GUI version
 
-```python sudoku-GUI.py {a,b}``` for a GUI version
+```python sudoku-GUI.py {a,b}``` for a GUI version, press "space bar" to trigger the algorithm to run 
 
 args: a to run the solver using optimized algorithm, b for regular backtracking algorithm.
 ### To modify board:
